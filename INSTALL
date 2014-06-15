@@ -1,0 +1,9 @@
+Building Colognecoin
+
+See doc/readme-qt.rst for instructions on building Colognecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Colognecoin.
+
+See doc/build-*.txt for instructions on building colognecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Colognecoin.

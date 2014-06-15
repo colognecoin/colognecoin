@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Colognecoin
+Comment=Colognecoin P2P Cryptocurrency
+Comment[fr]=Colognecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Colognecoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/colognecoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/colognecoin128.png
+MimeType=x-scheme-handler/colognecoin;
+Categories=Office;
