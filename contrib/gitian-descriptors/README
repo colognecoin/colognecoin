@@ -52,7 +52,7 @@ Once you've got the right hardware and software:
     ./bin/gbuild --commit bitcoin=HEAD ../bitcoin/contrib/gitian-descriptors/qt-win32.yml
 
     # Build Win32 release:
-    ./bin/gbuild --commit bitcoin=HEAD ../bitcoin/contrib/gitian-descriptors/gitian-win32.yml
+    ./bin/gbuild --commit bitcoin=HEAD ../colognecoin/contrib/gitian-descriptors/gitian-win32.yml
 
 ---------------------
 
